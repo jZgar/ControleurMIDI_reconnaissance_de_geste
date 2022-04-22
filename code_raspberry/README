@@ -1,5 +1,9 @@
 '''
 
-Dans ce sous-dossier se trouve les codes permettant à la raspberry de faire tourner le réseau CNN et de récupérer les données envoyées par la STM32
+Dans ce sous-dossier se trouve les codes permettant à la raspberry de faire tourner le réseau CNN, le CNN et de récupérer les données envoyées par la STM32 sur la raspberry
+
+ - controllermidi_cnn : code de l'IA comprenant son entrainement
+ - controllermidi : code utilisant l'IA sur la raspberry
+ - uart_read : code permettant de récupérer les données envoyées par la STM32 sous forme de tableau numpy
 
 '''
