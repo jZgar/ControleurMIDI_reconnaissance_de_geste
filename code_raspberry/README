@@ -1,0 +1,5 @@
+'''
+
+Dans ce sous-dossier se trouve les codes permettant à la raspberry de faire tourner le réseau CNN et de récupérer les données envoyées par la STM32
+
+'''
