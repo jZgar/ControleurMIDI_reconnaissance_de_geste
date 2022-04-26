@@ -1,0 +1,4 @@
+../Core/Src/functions.c:9:6:read_ch_MCP3008	24	static
+../Core/Src/functions.c:36:6:print_value_uart_1	72	static
+../Core/Src/functions.c:46:6:print_char_uart_1	280	static
+../Core/Src/functions.c:54:6:send_matrix_uart_1	272	static
